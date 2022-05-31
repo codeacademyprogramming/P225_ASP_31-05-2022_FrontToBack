@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P225BootstrapLanding", "P225BootstrapLanding\P225BootstrapLanding.csproj", "{D91FCF3C-735C-4A0F-8C78-9C5E1CC87E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91FCF3C-735C-4A0F-8C78-9C5E1CC87E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91FCF3C-735C-4A0F-8C78-9C5E1CC87E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91FCF3C-735C-4A0F-8C78-9C5E1CC87E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91FCF3C-735C-4A0F-8C78-9C5E1CC87E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36D426E8-1048-44EA-8581-AA03FA42E632}
+	EndGlobalSection
+EndGlobal
